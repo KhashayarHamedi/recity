@@ -1,0 +1,14 @@
+# Common
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+*.env
+
+# Node
+node_modules/
+dist/
